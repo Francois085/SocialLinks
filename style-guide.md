@@ -1,3 +1,22 @@
+## couleur
+fond body : 20 20 20
+fond mainContainer: 31 31 31
+bouton : 51 51 51
+text base : 255 255 255
+london text : 224 255 126
+active bouton : 196 248 42
+text activte bouton : 32 54 0
+
+## Main div:
+- widht 380px
+- height: 610px
+- padding 40px
+
+## photo
+- maring top 40 px
+- centrée auto : 148px de chaque coté
+- taille image: 88 x 88 px
+
 # Front-end Style Guide
 
 ## Layout
