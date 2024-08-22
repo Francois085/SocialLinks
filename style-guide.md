@@ -17,6 +17,21 @@ text activte bouton : 32 54 0
 - centrée auto : 148px de chaque coté
 - taille image: 88 x 88 px
 
+## nom
+margin top 30px
+margin bottom 18px
+
+## description
+margin top 30px
+
+
+# bouton
+height : 45px
+width : 305 px
+margin top : 25
+margin entre bouton 15 px
+margin bottom : 45 px
+
 # Front-end Style Guide
 
 ## Layout

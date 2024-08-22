@@ -8,17 +8,38 @@ body {
     height: 100svh;
     width: 100svw;
     overflow: hidden;
+    font-family: "Inter", sans-serif;
 }
 
 main{
-    display: flex;
-    flex-direction: column;
     margin: 5% auto;
     width : 380px;
     height: 610px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;    
     color: white;
     background-color: rgb(31, 31, 31);
+    border-radius: 20px;
 }
+
+.photo img{
+    height: 88px;
+    border-radius: 50%;
+}
+
+.nom{
+    margin-top: 30px;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.location{
+    margin-top: 18px;
+}
+
+
 
 .attribution {
     font-size: 11px; 
