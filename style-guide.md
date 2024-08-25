@@ -32,6 +32,20 @@ margin top : 25
 margin entre bouton 15 px
 margin bottom : 45 px
 
+## mobile
+height 580
+width 330
+padding 25
+
+ ## mobile ## photo 8 x 88 pas changement
+
+## mobile ## bouton
+width 280px
+height 45px
+gap 15px
+padding button 25px
+
+
 # Front-end Style Guide
 
 ## Layout
